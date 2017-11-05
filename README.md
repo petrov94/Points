@@ -1,2 +1,1 @@
-# romanov
-C:\Users\Petar\Desktop
+Generating a point cordinates regarding the given commands.
