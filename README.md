@@ -1,1 +1,1 @@
-Generating a point cordinates regarding the given commands.
+Generating points' coordinates regarding the given commands.
